@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\okeli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\okeli\\.nuget\\packages"
+    ]
+  }
+}
