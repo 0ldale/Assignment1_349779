@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Assignment1349779" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\okeli\\Documents\\School\ 559\\6\\Secure\ Software\\Assignment1_349779\\Assignment1_349779\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Assignment1_349779.Data.ApplicationDbContext" description="" value="Data Source=tcp:assignment1-349779dbserver.database.windows.net,1433;Initial Catalog=Assignment1_349779_db;User Id=elizabeths@assignment1-349779dbserver;Password=SecureSoftware529!" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\okeli\\Documents\\School\ 559\\6\\Secure\ Software\\Assignment1_349779\\Assignment1_349779\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\Assignment1_349779\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

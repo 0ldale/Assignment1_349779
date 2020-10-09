@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Assignment1_349779.Data;
+using Assignment1_349779.Models;
 
 namespace Assignment1_349779
 {
@@ -16,6 +17,14 @@ namespace Assignment1_349779
         public static void Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
+
+            //Initialize appsecrets
+            var configuration = host.Services.GetService<IConfiguration>();
+            var hosting = host.Services.GetService<IWebHostEnvironment>();
+
+            var secrets = configuration.GetSection("Secrets").Get<AppSecrets>();
+            DbInitializer.appSecrets = secrets;
+
             using (var scope = host.Services.CreateScope())
                 DbInitializer.SeedUsersAndRoles(scope.ServiceProvider).Wait();
             host.Run();

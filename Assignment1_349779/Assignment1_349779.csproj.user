@@ -14,5 +14,6 @@
     <WebStackScaffolding_DbContextTypeFullName>Assignment1_349779.Data.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>Assignment1349779 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

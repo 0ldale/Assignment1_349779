@@ -197,3 +197,6 @@ C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignm
 C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\obj\Debug\netcoreapp3.1\Razor\Views\Teams\Details.cshtml.g.cs
 C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\obj\Debug\netcoreapp3.1\Razor\Views\Teams\Edit.cshtml.g.cs
 C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\obj\Debug\netcoreapp3.1\Razor\Views\Teams\Index.cshtml.g.cs
+C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.Assignment1349779 - Web Deploy.json
+C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Assignment1349779 - Web Deploy\mssql1.arm.json
+C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Assignment1349779 - Web Deploy\profile.arm.json

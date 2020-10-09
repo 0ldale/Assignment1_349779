@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\okeli\Documents\School 559\6\Secure Software\Assignment1_349779\Assignment1_349779\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\Assignment1_349779.Data.ApplicationDbContext.sql" />
+</sitemanifest>
